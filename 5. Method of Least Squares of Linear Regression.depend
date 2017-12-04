@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1507566932 source:c:\users\zay alshareef\desktop\codeblocks 2 year\5. method of least squares of linear regression\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
+1511795794 source:c:\users\c00210415\desktop\codeblocks 2 year\5. method of least squares of linear regression\main.cpp
+	<iostream>
+	<math.h>
+
